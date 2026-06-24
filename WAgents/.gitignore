@@ -1,0 +1,20 @@
+# Python 字节码缓存
+__pycache__/
+*.py[cod]
+
+# 包安装元信息（pip install -e . 产生的）
+*.egg-info/
+
+# 虚拟环境
+.venv/
+venv/
+
+# 环境变量（包含 API Key，不要提交）
+.env
+
+# IDE 配置
+.vscode/
+.idea/
+
+# macOS 系统文件
+.DS_Store
